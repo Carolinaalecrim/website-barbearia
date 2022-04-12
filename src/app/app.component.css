@@ -61,6 +61,13 @@ h6 {
 /**
   * Desktop Navigation
   */
+.logo{
+    height: 40px;
+    width: 40px; 
+    align-items: left;
+}
+
+
 
 .navbar {
     padding: ;
@@ -105,7 +112,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-    color: #800000;
+    color: #4169e1;
 }
 
 .navbar .dropdown ul {
@@ -345,7 +352,7 @@ h6 {
 }
 
 #hero .btn-scroll:hover {
-    color:#800000;
+    color: #4169e1;
 }
 
 @media (min-width: 1024px) {
@@ -415,7 +422,7 @@ h6 {
 .services .icon i {
     font-size: 36px;
     line-height: 1;
-    color: #800000;
+    color: #4169e1;
 }
 
 .services .title {
@@ -629,7 +636,7 @@ section {
 }
 .pricing h4 {
   font-size: 36px;
-  color: #800000;
+  color: #4169e1;
   font-weight: 600;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
